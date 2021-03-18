@@ -16,6 +16,13 @@ public int sub(int a, int b)
  return c;
 }
 
+public static void div(float a, float b)
+{
+int c=a/b;
+
+system.out.println(c);
+}
+
 public static void main(String[] args)
 {
    sample s=new Sample();
