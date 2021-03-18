@@ -33,6 +33,10 @@ public void getName()
 {
 System.out.println("Selenium");
 }
+public void getid()
+{
+system.out.println("9600")
+}
 
 public static void main(String[] args)
 {
